@@ -92,7 +92,7 @@
    - Target: Treatment group shows >20% increase in perceived outgroup heterogeneity
    - Cost: Very high (RCT, long timeline, statistical power requirements)
 
-### Pressure Points (Higher Cost But Worth It)
+### Pressure Points (Higher Cost, High Reward)
 
 **Critical Evaluations to Prioritize:**
 
